@@ -1,0 +1,24 @@
+{
+  "name": "tarea_11052020_si",
+  "version": "0.0.1",
+  "description": "Mi primer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfonseca2/tarea_11052020_si.git"
+  },
+  "keywords": [
+    "tarea",
+    "Fes_Aragon",
+    "Sis_Info"
+  ],
+  "author": "Fonseca Guízar César Alfonso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfonseca2/tarea_11052020_si/issues"
+  },
+  "homepage": "https://github.com/cfonseca2/tarea_11052020_si#readme"
+}
