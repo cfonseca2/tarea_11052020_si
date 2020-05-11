@@ -17,6 +17,10 @@
   ],
   "author": "Fonseca Guízar César Alfonso",
   "license": "MIT",
+  "dependencies":{
+    "http":"0.0.0",
+    "express":"4.17.0"
+  }
   "bugs": {
     "url": "https://github.com/cfonseca2/tarea_11052020_si/issues"
   },
